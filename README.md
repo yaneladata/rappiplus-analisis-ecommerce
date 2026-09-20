@@ -1,7 +1,7 @@
 📊 Análisis de Suscripciones de RappiPlus
 ---
 
-## 1. 🎯 Problema Analizado
+##  🎯 Problema Analizado
 
 El proyecto aborda la evaluación integral del desempeño operativo, financiero y de experiencia de usuario en la plataforma RappiPlus. Específicamente, se identificaron cuatro problemáticas clave:
 
@@ -12,7 +12,7 @@ El proyecto aborda la evaluación integral del desempeño operativo, financiero 
 
 ---
 
-## 2. 🛠️ Herramientas Utilizadas
+##  🛠️ Herramientas Utilizadas
 
 * **Lenguaje de Programación**: Python
 * **Procesamiento y Manipulación de Datos**: Pandas, NumPy
@@ -22,7 +22,7 @@ El proyecto aborda la evaluación integral del desempeño operativo, financiero 
 
 ---
 
-## 3. 🔄 Proceso Que Se Siguió
+##  🔄 Proceso Que Se Siguió
 
 1. **Ingesta y Limpieza de Datos (Data Quality)**:
    * Eliminación de registros duplicados en el conjunto de 25100 órdenes.
@@ -46,7 +46,7 @@ El proyecto aborda la evaluación integral del desempeño operativo, financiero 
    * Desarrollo de tableros interactivos(General y Detalle) con KPIs financieros, seguimiento de Revenue mensual, YTD acumulado, distribución de Revenue , Profit por producto, tabla de órdenes detallada, distribución de ingresos por categoría y desglose de Profit por País y Canal.
      
 ---
-## 4.📂 Estructura del Repositorio
+## 📂 Estructura del Repositorio
 ```text
 ├── data/
 │   ├── raw/                       <- Datasets originales (Orders, Catalog, Marketing)
@@ -59,7 +59,7 @@ El proyecto aborda la evaluación integral del desempeño operativo, financiero 
 ├── README.md                      <-  Documentación ejecutiva del proyecto
 
 ---
-## 5. 📊 Principales Hallazgos
+##  📊 Principales Hallazgos
 
 * **Rentabilidad General**: Se generaron **$3.83M USD en ventas totales** y un **Margen Neto del 30.3%** ($920,000 USD de ganancia neta).
 * **Hallazgo Crítico (Ventas bajo costo)**: Se detectaron **4,378 pedidos** vendidos por debajo de su costo marginal. El producto *Laptop-Gaming-16GB* generó un **Margen Bruto de -8.6%**, acumulando **más de $300,000 USD en pérdidas directas**.
@@ -70,7 +70,7 @@ El proyecto aborda la evaluación integral del desempeño operativo, financiero 
 * **Resultado del Experimento A/B**: La prueba estadística arrojó un **$p\text{-valor} \ge 0.05$**, indicando que la nueva versión del Checkout (Tratamiento) no generó un incremento estadísticamente significativo en la conversión.
 
 ---
-## 6. 💡 Conclusión del Análisis
+##  💡 Conclusión del Análisis
 
 * **Negocio y Pricing**: Se sugiere que la prioridad inmediata no es aumentar el volumen de ventas, sino **corregir la parametrización de precios y promociones** en la categoría Electrónica (*Laptop-Gaming-16GB*) para detener la fuga de margen.
 * **Producto e Ingeniería**: Se debe **pausar el despliegue de la nueva UI de Checkout** ($H_0$ no rechazada) y redirigir los esfuerzos de ingeniería a resolver los problemas técnicos/fricciones en la pasarela de pago actual para mitigar el 60.39% de abandono.
