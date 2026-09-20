@@ -47,16 +47,16 @@ El proyecto aborda la evaluación integral del desempeño operativo, financiero 
      
 ---
 ## 4.📂 Estructura del Repositorio
-Plaintext
+```text
 ├── data/
-│   ├── raw/                 # Datasets originales (Orders, Catalog, Marketing)
-│   └── processed/           # Datasets limpios (orders_clean, catalog_clean, marketing_clean)
+│   ├── raw/                       <- Datasets originales (Orders, Catalog, Marketing)
+│   └── processed/                 <- Datasets limpios (orders_clean, catalog_clean, marketing_clean)
 ├── notebooks/
-│   └── Proyecto_RappiPlus.ipynb  # Notebook principal 
+│   └── Proyecto_RappiPlus.ipynb   <- Notebook principal 
 ├── visualizaciones/
-│   ├── Overview_Ejecutivo.png   # Captura del Dashboard Vista General en Tableau
-│   └── Vista_Detalle.png        # Captura del Dashboard Vista Detalle en Tableau
-├── README.md                # Documentación ejecutiva del proyecto
+│   ├── Overview_Ejecutivo.png     <- Captura del Dashboard Vista General en Tableau
+│   └── Vista_Detalle.png          <-  Captura del Dashboard Vista Detalle en Tableau
+├── README.md                      <-  Documentación ejecutiva del proyecto
 
 ---
 ## 5. 📊 Principales Hallazgos
