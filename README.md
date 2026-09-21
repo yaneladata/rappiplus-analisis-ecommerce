@@ -1,4 +1,4 @@
-# 📦 Análisis de Suscripciones y Eficiencia Operativa en RappiPlus
+# 📦 Análisis de Rentabilidad, Conversión y Retención en RappiPlus
 
 > 👤 **Rol:** Analista de Datos de Negocio y Producto (Proyecto Individual)  
 > 🏢 **Contexto:** Evaluación de Servicio de Suscripción e-Commerce / Proyecto de Portafolio  
