@@ -2,7 +2,7 @@
 
 > 👤 **Rol:** Analista de Datos de Negocio y Producto (Proyecto Individual)  
 > 🏢 **Contexto:** Evaluación de Servicio de Suscripción e-Commerce / Proyecto de Portafolio  
-> 🎯 **Alcance:** Auditoría de calidad de datos, diagnóstico financiero ($9.61M USD Revenue acumulado / $3.83M en ventas evaluadas), optimización de margen, análisis de funnel, retención por cohortes y prueba A/B.  
+> 🎯 **Alcance:** Auditoría de calidad de datos, diagnóstico financiero, optimización de margen, análisis de funnel, retención por cohortes y prueba A/B.  
 > 🛠️ **Stack Técnico:** Python (`pandas`, `numpy`, `scipy.stats`), Tableau Public (Dashboards interactivos), Google Colab, Jupyter Notebooks.
 
 ---
